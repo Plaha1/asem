@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GB4KSG424UPX4X2V6LEBYAMO24SPUHI7CDCVRM6EDIN5MU2SD3PDY7X7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_DESCRIPTION="ASEM is a Russian majority state-owned multinational energy corporation headquartered in the Lakhta Center in Saint Petersburg. As of 2019, with sales over US$120 billion, it sat as the largest publicly-listed natural gas company in the world and the largest company in Russia by revenue.In the 2020 Forbes Global 2000, ASEM was ranked as the 32nd -largest public company in the world."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_LOGO="https://i.ibb.co/qYCXm9N/Academy-of-Economic-Studies-of-Moldova-ASEM-LOGO.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="ASEM"
+issuer="GB4KSG424UPX4X2V6LEBYAMO24SPUHI7CDCVRM6EDIN5MU2SD3PDY7X7"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
+name="ASEM"
+desc="ASEM is a Russian majority state-owned multinational energy corporation headquartered in the Lakhta Center in Saint Petersburg. As of 2019, with sales over US$120 billion, it sat as the largest publicly-listed natural gas company in the world and the largest company in Russia by revenue.In the 2020 Forbes Global 2000, ASEM was ranked as the 32nd -largest public company in the world."
+image="https://i.ibb.co/qYCXm9N/Academy-of-Economic-Studies-of-Moldova-ASEM-LOGO.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#ASEM was issued using the open and inclusive Stellar blockchain network.
